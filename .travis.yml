@@ -3,4 +3,4 @@ python:
  - "2.7"
 script:
  - python hello.py 
- - py.test -v -rs integration_tests
+ - py.test -v -rs tests.py
