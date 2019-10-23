@@ -1,2 +1,2 @@
 # README for travis-lab
-[![Build status](https://travis-ci.org/eloirodriguezgaxas/travislab.svg?master)](https://travis-ci.org/eloirodriguezgaxas)
+[![Build status](https://travis-ci.org/eloirodriguezgaxas/travis-lab.svg?master)](https://travis-ci.org/eloirodriguezgaxas)
